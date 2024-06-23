@@ -1,2 +1,4 @@
 cnk3x/xunlei
 80x86/baidupcs
+homeassistant/home-assistant
+6053537/portainer-ce
